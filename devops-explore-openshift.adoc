@@ -1,4 +1,5 @@
 ## Explore OpenShift
+:imagesdir: images
 
 In this lab you will get familiar with OpenShift Web Console and OpenShift CLI and gain some experience interactive with an OpenShift cluster.
 
