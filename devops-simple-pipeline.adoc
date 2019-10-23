@@ -1,4 +1,5 @@
 ## Creating a Simple CI/CD Pipeline
+:imagesdir: images
 
 In this lab you will learn about OpenShift pipelines and create your first pipeline on the platform.
 
