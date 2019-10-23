@@ -1,4 +1,5 @@
 ## Pipeline Definition as Code
+:imagesdir: images
 
 In this lab you will get familiar with definine a pipeline as code and manage its versions via a version control system.
 
