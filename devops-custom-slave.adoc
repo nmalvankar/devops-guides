@@ -1,4 +1,5 @@
 ## Creating Custom Jenkins Slave Pods
+:imagesdir: images
 
 In this lab you will get familiar with creating custom slave container images for running distributed builds on OpenShfit.
 
