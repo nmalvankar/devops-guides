@@ -1,5 +1,5 @@
 ## Automated Zero-Downtime Deployment with CI/CD Pipelines
-
+:imagesdir: images
 In this lab you will get learn how to automate deployments into production without the need for a service window and down time.
 
 #### Background
