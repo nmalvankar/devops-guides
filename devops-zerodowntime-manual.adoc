@@ -1,5 +1,5 @@
 ## Zero-Downtime Deployment to Production
-
+:imagesdir: images
 In this lab you will get familiar with production deployments without requiring any downtime or service windows.
 
 #### Background
