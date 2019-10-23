@@ -1,4 +1,5 @@
 ## Application Promotion Between Environments
+:imagesdir: images
 
 In this lab you will learn about application promotion between deployment environment and promote services from _Dev_ environment to the _Prod_ environment.
 
