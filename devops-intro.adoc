@@ -15,7 +15,7 @@ Continuous Delivery is the natural extension of Continuous Integration, an appro
 
 Continuous Deployment is the most advanced evolution of continuous delivery and advocates automatic release of every change into production without human intervention after it has been successfully tested and verified in the process. Although interesting, few organization are ready today to automatically deploy changed to production. Nevertheless, Continuous Deployment  should be a goal for every team to build sufficient trust in the process to be able to automatically deploy a class of changes into production.
 
-image::devops-intro-cd.png[Continuous Delivery and Continuous Deployment]
+image::images/devops-intro-cd.png[Continuous Delivery and Continuous Deployment]
 
 #### Jenkins CI Engine
 
