@@ -1,4 +1,5 @@
 ## Deployment Environments
+:imagesdir: images
 
 In this lab you will learn about deployment environments in software delivery lifecycle and deploy the application into these deployment environments.
 
